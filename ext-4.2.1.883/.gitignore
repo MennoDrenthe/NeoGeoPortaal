@@ -1,0 +1,8 @@
+.doc/
+.docs/
+.examples/
+.example/
+.builds/
+.bootstrap.js
+
+

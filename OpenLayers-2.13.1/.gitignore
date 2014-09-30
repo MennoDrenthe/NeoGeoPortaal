@@ -1,0 +1,13 @@
+/build/OpenLayers.js
+/tools/closure-compiler.jar
+/tools/*.pyc
+/apidoc_config/Data/
+/doc/apidocs/
+/examples/example-list.js
+/examples/example-list.xml
+
+.doc/
+.docs/
+.examples/
+.example/
+.builds/
